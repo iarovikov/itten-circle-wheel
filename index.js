@@ -1,3 +1,4 @@
+
 function draw() {
   var img = document.getElementById("photo");
   img.onload = function() {
@@ -5,3 +6,4 @@ function draw() {
   };
   img.src = "Pixel-Art-Mario.jpg";
   }
+
